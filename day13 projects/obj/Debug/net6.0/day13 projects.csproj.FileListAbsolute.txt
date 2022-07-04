@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day13 projects\day13 projects\obj\Debug\net6.0\day13 projects.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day13 projects\day13 projects\obj\Debug\net6.0\day13 projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day13 projects\day13 projects\obj\Debug\net6.0\day13 projects.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day13 projects\day13 projects\obj\Debug\net6.0\day13 projects.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day13 projects\day13 projects\obj\Debug\net6.0\day13 projects.csproj.CoreCompileInputs.cache
